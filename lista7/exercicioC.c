@@ -22,7 +22,6 @@ main(){
 		case'B':
 			printf("B");
 			break;
-			
 		case'C':
 			printf("C");
 			break;
